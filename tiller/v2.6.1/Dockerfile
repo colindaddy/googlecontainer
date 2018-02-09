@@ -1,2 +1,2 @@
-FROM gcr.io/google_containers/tiller:v2.6.1
+FROM gcr.io/kubernetes-helm/tiller:v2.6.1
 MAINTAINER 397106818@qq.com
